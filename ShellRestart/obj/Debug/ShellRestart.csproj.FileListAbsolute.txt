@@ -4,3 +4,5 @@ C:\Users\TheArcaneBrony\Desktop\Projects\ShellRestart\ShellRestart\obj\Debug\She
 C:\Users\TheArcaneBrony\Desktop\Projects\ShellRestart\ShellRestart\obj\Debug\ShellRestart.csproj.CoreCompileInputs.cache
 C:\Users\TheArcaneBrony\Desktop\Projects\ShellRestart\ShellRestart\obj\Debug\ShellRestart.exe
 C:\Users\TheArcaneBrony\Desktop\Projects\ShellRestart\ShellRestart\obj\Debug\ShellRestart.pdb
+C:\Users\TheArcaneBrony\Desktop\Projects\ShellRestart\ShellRestart\obj\Debug\ShellRestart.PinForm.resources
+C:\Users\TheArcaneBrony\Desktop\Projects\ShellRestart\ShellRestart\obj\Debug\ShellRestart.csproj.GenerateResource.cache
