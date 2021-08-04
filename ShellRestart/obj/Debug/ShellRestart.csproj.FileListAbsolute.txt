@@ -1,0 +1,6 @@
+C:\Users\TheArcaneBrony\Desktop\Projects\ShellRestart\ShellRestart\bin\Debug\ShellRestart.exe
+C:\Users\TheArcaneBrony\Desktop\Projects\ShellRestart\ShellRestart\bin\Debug\ShellRestart.pdb
+C:\Users\TheArcaneBrony\Desktop\Projects\ShellRestart\ShellRestart\obj\Debug\ShellRestart.csproj.AssemblyReference.cache
+C:\Users\TheArcaneBrony\Desktop\Projects\ShellRestart\ShellRestart\obj\Debug\ShellRestart.csproj.CoreCompileInputs.cache
+C:\Users\TheArcaneBrony\Desktop\Projects\ShellRestart\ShellRestart\obj\Debug\ShellRestart.exe
+C:\Users\TheArcaneBrony\Desktop\Projects\ShellRestart\ShellRestart\obj\Debug\ShellRestart.pdb
