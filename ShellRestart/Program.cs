@@ -24,7 +24,7 @@ namespace ShellRestart
                 PinForm pf = new PinForm();
                 Application.Run(pf);
             }
-            //Process.Start("explorer");
+            Process.Start("explorer");
         }
     }
 }
